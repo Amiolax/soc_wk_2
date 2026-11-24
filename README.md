@@ -200,7 +200,7 @@ The attacker ran a privileged command at 23:10:30.
 
 | Activity / question | Windows Logs | Sysmon | Linux Logs | Auditd | Analyst note |
 | --- | --- | --- | --- | --- | --- |
-| Who performed it? | | Yes | Yes | | The logs showed the attacker IP as 10.0.2.4 |
+| Who performed it? | |  | Yes | Yes | The logs showed the attacker IP as 10.0.2.4 |
 | What command ran? | | | | | |
 | Which process was involved? | | | | | |
 | What network connection occurred? | | | Yes | | Many ports, including 55462, 55458, 41926... |
