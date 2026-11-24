@@ -26,7 +26,7 @@ The attacker on the Kali performed a brute force attempt against the Ubuntu serv
 
 ## 3. Lab architecture
 
-![Figure 1: Lab architecture](images/fig1-architecture.png)
+![Figure 1: Lab architecture](fig1-architecture.png)
 
 *Figure 1: Lab architecture diagram. Ubuntu 24.04 AWS EC2 (SIEM); Organisational Server (IP: 10.0.2.3) with Auditd & Auth.log; Attacker (Kali Linux Host, IP: 10.0.2.4) brute forcing the SSH service running; Windows Host with Sysom.*
 
